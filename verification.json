@@ -6,6 +6,6 @@
   "sourceFile": "TRXToken.sol",
   "network": "tron",
   "deployedAddress": "41ab97c6da856b0f0645ee390dfa423db1873938",
-  "explorer": "https://tronscan.org/#/contract/41ab97c6da856b0f0645ee390dfa423db1873938/code",
+  "explorer": "https://tronscan.org/#/contract/TTkUWcrQNvPwr7wf6WFqvXTEx3bQhx3vtM/code",
   "description": "Full TRC20 (FATIL) contract verified for SunSwap V2 LP integration."
 }
